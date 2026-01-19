@@ -72,7 +72,7 @@ These insights can be useful for **marketing strategies and business decision-ma
     
 3.Run the notebook or Python script
 
-📌 Use Cases
+## 📌 Use Cases
 
 Customer segmentation
 
